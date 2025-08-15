@@ -1,0 +1,5 @@
+Agentic memory that improves upon the SOTA as of Aug 2025
+
+memory in agents is fundamentally broken - be it what ChatGPT uses, or any other LLM. The idea is to improve upon these current attempts and blend graph DBs + document DBs and "learn" importance
+of interactions over time.
+
